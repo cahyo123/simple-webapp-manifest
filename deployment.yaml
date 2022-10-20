@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: simple-webapp
-          image: docker.io/cahyo2022/webapp:2210200858
+          image: docker.io/cahyo2022/webapp:2210200905
           ports:
             - containerPort: 80
 
